@@ -157,8 +157,8 @@ class _PayNowScreenState extends State<PayNowScreen> {
                       height: 55,
                       width: 65,
                       padding: EdgeInsets.only(
-                        bottom: 15,
-                        top: 15,
+                        bottom: 10,
+                        top: 10,
                         left: 10,
                         right: 10,
                       ),
@@ -168,7 +168,7 @@ class _PayNowScreenState extends State<PayNowScreen> {
                         borderRadius: BorderRadius.circular(15),
                       ),
                       child: Image.asset(
-                        'assets/images/lao flag.png',
+                        'assets/images/playStationHand.png',
                         fit: BoxFit.contain,
                       ),
                     ),

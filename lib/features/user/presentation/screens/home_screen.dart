@@ -147,7 +147,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: Row(
                   children: List.generate(10, (index) {
                     return specialSelectionContainerWidget(
-                      'assets/images/maidDailyTask.png',
+                      'assets/images/product.png',
                       'Smartphone',
                       '18 Brands',
                     );

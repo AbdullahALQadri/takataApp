@@ -93,7 +93,7 @@ class _CheckOutScreenState extends State<CheckOutScreen> {
                 physics: const ClampingScrollPhysics(),
                 itemBuilder: (context, index) {
                   return containerChartListWidget(
-                    imagePath: 'assets/images/usa flag.png',
+                    imagePath: 'assets/images/Vector.png',
                     title: 'Wireless Controller for PS4™',
                     subTitle: '\$64.99',
                   );

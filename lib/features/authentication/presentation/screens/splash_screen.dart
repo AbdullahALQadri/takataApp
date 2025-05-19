@@ -85,15 +85,15 @@ class _SplashScreenState extends State<SplashScreen> {
                   children: [
                     OutBoardingWidget(
                       "Welcome to Takata, Let’s shop!",
-                      "assets/images/work.png",
+                      "assets/images/onBoarding1.png",
                     ),
                     OutBoardingWidget(
                       "We help people conect with store around United State of America",
-                      "assets/images/task completed.png",
+                      "assets/images/onBoarding2.png",
                     ),
                     OutBoardingWidget(
                       "We show the easy way to shop.Just stay at home with us",
-                      "assets/images/welcome.png",
+                      "assets/images/onBoarding3.png",
                     ),
                   ],
                 ),
